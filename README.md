@@ -1,5 +1,7 @@
 # mi_pisto_app
 
+Mi Pisto es una app móvil desarrollada con Flutter para el control de gastos personales. Permite registrar ingresos y egresos de forma sencilla, brindando reportes visuales para una mejor gestión financiera. Está optimizada para dispositivos iOS y Android, ofreciendo una experiencia fluida, intuitiva y multiplataforma para mantener tus finanzas personales organizadas desde cualquier lugar.
+
 A new Flutter project.
 
 ## Getting Started
